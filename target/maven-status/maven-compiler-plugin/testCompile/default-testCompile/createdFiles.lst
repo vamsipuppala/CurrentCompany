@@ -1,0 +1,9 @@
+dev\codescreen\integrationtesting\LoadIntegrationTest.class
+dev\codescreen\unittesting\controller\ErrorHandlingControllerTest.class
+dev\codescreen\unittesting\service\TransactionServiceTest.class
+dev\codescreen\unittesting\repository\InMemoryDatabaseTest.class
+dev\codescreen\unittesting\controller\AuthorizationTransactionControllerTest.class
+dev\codescreen\unittesting\controller\LoadTransactionControllerTest.class
+dev\codescreen\integrationtesting\AuthorizationIntegrationTest.class
+dev\codescreen\integrationtesting\PingIntegrationTest.class
+dev\codescreen\integrationtesting\TransactionConcurrencyIntegrationTest.class
